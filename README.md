@@ -1,4 +1,4 @@
-# sudoku-c
+# forca-c
 
 <p style="display: flex;aling-itens: center">Testado em:   
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="20px"></p>
